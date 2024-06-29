@@ -18,25 +18,31 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-usuario-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/luiz-gustavo-pereira-de-carvalho-26085b270/">
   </a>
   <a href="https://www.instagram.com/seu-usuario-instagram/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://twitter.com/seu-usuario-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
   <a href="mailto:seuemail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gustalpcarvalho@gmail.com">
   </a>
   <a href="https://discord.com/users/seu-usuario-discord" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="https://discord.com/channels/@me">
   </a>
 </p>
 
 ### Projetos Recentes
 
-- [Projeto 1](link-projeto-1): Descrição breve do projeto.
+- [Simulador De Caixa Eletronico](link-projeto-1): Descrição breve do projeto.
 - [Projeto 2](link-projeto-2): Descrição breve do projeto.
 - [Projeto 3](link-projeto-3): Descrição breve do projeto.
+
+- ### Linguagens Mais Usadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6gusta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)      ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=6gusta&show_icons=true&count_private=true&hide=issues,contribs)
+
+
+
+
+
 
