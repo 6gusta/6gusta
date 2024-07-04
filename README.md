@@ -33,16 +33,17 @@
 
 ### Projetos Recentes
 
-- [Simulador De Caixa Eletronico](link-projeto-1): Descrição breve do projeto.
-- [Projeto 2](link-projeto-2): Descrição breve do projeto.
-- [Projeto 3](link-projeto-3): Descrição breve do projeto.
+- [Simulador De Caixa Eletronico](link-projeto-1):  
+Este projeto tem como finalidade simular o comportamento de um caixa eletrônico..
+- [Flash Deal](link-projeto-2): Site de Promoções Multiplataformas.
+- [Simulador- sistema de Caixa De marcado](link-projeto-3): Em andamento.
 
 - ### Linguagens Mais Usadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6gusta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)      ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=6gusta&show_icons=true&count_private=true&hide=issues,contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6gusta&layout=compact)](https://github.com/6gusta)     ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=6gusta&show_icons=true&count_private=true&hide=issues,contribs)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6gusta&layout=compact)](https://github.com/6gusta)
 
 
 
