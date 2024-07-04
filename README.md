@@ -20,10 +20,10 @@
   <a href="https://www.linkedin.com/in/luiz-gustavo-pereira-de-carvalho-26085b270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/luiz-gustavo-pereira-de-carvalho-26085b270/">
   </a>
-  <a href="https://www.instagram.com/seu-usuario-instagram/" target="_blank">
+  <a href="https://www.instagram.com/gusta.carvalh0?igsh=ZG1xbnE3cGhpbDg0&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="gustalpcarvalho@gmail.com"target="_blank">
+  <a href="https://myaccount.google.com/u/1/profile?pageId=none"target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gustalpcarvalho@gmail.com">
   </a>
   <a href="https://discord.com/users/seu-usuario-discord" target="_blank">
