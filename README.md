@@ -33,7 +33,7 @@
 
 ### Projetos Recentes
 
-- [Simulador De Caixa Eletronico](link-projeto-1):  
+- [Simulador De Caixa Eletronico](https://github.com/6gusta/SIMULADOR-DE-CAIXA-ELETRONICO-.git):  
 Este projeto tem como finalidade simular o comportamento de um caixa eletrônico..
 - [Flash Deal](link-projeto-2): Site de Promoções Multiplataformas.
 - [Simulador- sistema de Caixa De marcado](link-projeto-3): Em andamento.
