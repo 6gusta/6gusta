@@ -42,6 +42,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6gusta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)      ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=6gusta&show_icons=true&count_private=true&hide=issues,contribs)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6gusta&layout=compact)](https://github.com/6gusta)
+
+
+
 
 
 
