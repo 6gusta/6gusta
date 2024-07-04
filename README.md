@@ -17,7 +17,7 @@
 ### Redes Sociais
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-usuario-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/luiz-gustavo-pereira-de-carvalho-26085b270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/luiz-gustavo-pereira-de-carvalho-26085b270/">
   </a>
   <a href="https://www.instagram.com/seu-usuario-instagram/" target="_blank">
