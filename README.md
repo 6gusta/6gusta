@@ -39,7 +39,7 @@
 - [Simulador De Caixa Eletronico](https://github.com/6gusta/SIMULADOR-DE-CAIXA-ELETRONICO-.git):  
 Este projeto tem como finalidade simular o comportamento de um caixa eletrônico..
 - [Flash Deal](https://github.com/6gusta/FlashDeal.git): Site de Promoções Multiplataformas.
-- [Simulador- sistema de Caixa De marcado](link-projeto-3): Em andamento.
+- [Simulador- sistema de Caixa De marcado](https://github.com/6gusta/Sistema-Caixa-De-Mercado-JAVA-Swing.git): Em andamento.
 
 - ### Linguagens Mais Usadas
 
