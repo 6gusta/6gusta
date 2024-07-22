@@ -39,7 +39,7 @@
 - [Simulador De Caixa Eletronico](https://github.com/6gusta/SIMULADOR-DE-CAIXA-ELETRONICO-.git):  
 Este projeto tem como finalidade simular o comportamento de um caixa eletrônico..
 - [Flash Deal](https://github.com/6gusta/FlashDeal.git): Site de Promoções Multiplataformas.
-- [Campo-Minado-CursoJava](https://github.com/6gusta/Sistema-Caixa-De-Mercado-JAVA-Swing.git):Desenvolvi este projeto durante meu curso de Java para praticar conceitos básicos da linguagem. Recriei o jogo Campo Minado, aplicando técnicas de POO, programação funcional (streams, lambdas, forEach), tratamento de erros e testes unitários.
+- [Campo-Minado-CursoJava](https://github.com/6gusta/Campo-Minado-CursoJava.git):Desenvolvi este projeto durante meu curso de Java para praticar conceitos básicos da linguagem. Recriei o jogo Campo Minado, aplicando técnicas de POO, programação funcional (streams, lambdas, forEach), tratamento de erros e testes unitários.
 
 - ### Linguagens Mais Usadas
 
