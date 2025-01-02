@@ -41,10 +41,7 @@ Este projeto tem como finalidade simular o comportamento de um caixa eletrônico
 - [NativeCod3r](https://github.com/6gusta/NativerCod3r.git): platafroma de ensino, em andamento...
 - [Campo-Minado-CursoJava](https://github.com/6gusta/Campo-Minado-CursoJava.git):Desenvolvi este projeto durante meu curso de Java para praticar conceitos básicos da linguagem. Recriei o jogo Campo Minado, aplicando técnicas de POO, programação funcional (streams, lambdas, forEach), tratamento de erros e testes unitários.
 
-- ### Linguagens Mais Usadas
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6gusta&layout=compact)](https://github.com/6gusta)     ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=6gusta&show_icons=true&count_private=true&hide=issues,contribs)
 
 
 
