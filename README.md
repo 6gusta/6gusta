@@ -68,13 +68,16 @@
 
 - [Simulador De Caixa Eletronico](https://github.com/6gusta/SIMULADOR-DE-CAIXA-ELETRONICO-.git):  
 Este projeto tem como finalidade simular o comportamento de um caixa eletrônico..
+
 - [NativeCod3r](https://github.com/6gusta/NativerCod3r.git): platafroma de ensino, com o objetivo de ensinar o basico da lingua inglesa e liguagem python com exercicios basicos.
+- 
 - [Campo-Minado-CursoJava](https://github.com/6gusta/Campo-Minado-CursoJava.git):Desenvolvi este projeto durante meu curso de Java para praticar conceitos básicos da linguagem. Recriei o jogo Campo Minado, aplicando técnicas de POO, programação funcional (streams, lambdas, forEach), tratamento de erros e testes unitários.
+- 
 -  [Chatbot](https://github.com/6gusta/Chatnot_Pedidos) neste projeto eu ultilzei o ferramenta typebot para desenvolver o chatbot, e atraves de uma api java conectei no java assim capturando pedidos e salvando no banco de dados e assi mandando pra aplicação criada para o vendedor poder ver e e controlar os pedidos.
 
 ### Meu Portifolio
 
-🌐 https://www.linkedin.com/in/luiz-gustavo-pereira-de-carvalho-26085b270/?originalSubdomain=br
+🌐 https://6gusta.github.io/Portifolio/
 
 
 
