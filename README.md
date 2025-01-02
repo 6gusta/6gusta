@@ -22,8 +22,6 @@
    <img src="https://img.shields.io/badge/Chatwoot-009688?style=for-the-badge&logo=chatwoot&logoColor=white" alt="Chatwoot">
    <img src="https://img.shields.io/badge/Typebot-02A9E0?style=for-the-badge&logo=typebot&logoColor=white" alt="Typebot">
    <img src="https://img.shields.io/badge/Hosdpagems-25A8E0?style=for-the-badge&logo=ruby&logoColor=white" alt="Hosdpagems">
-   <img src="https://img.shields.io/badge/API-FF4500?style=for-the-badge&logo=api&logoColor=white" alt="API">
-   <img src="https://img.shields.io/badge/Evolution-7B7D7D?style=for-the-badge&logo=git&logoColor=white" alt="Evolution">
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
