@@ -1,6 +1,10 @@
 ## Olá! Me Chamo Luiz Gustavo Bem Vindo!
 
-- 🔭 Hoje Trabalho Com Desenvolvimentos de Apps Lowcode/Nowcode 
+🔭 Atualmente, trabalho com o desenvolvimento de aplicações Lowcode/Nowcode, com foco em soluções rápidas e eficientes.
+💬 Criação de chatbots utilizando ferramentas como Flowise e Typebot, além de integrações avançadas com WhatsApp usando APIs como Evolution e plataformas como Chatwoot.
+🧠 Desenvolvimento de agentes inteligentes com a plataforma n8n, para automação de workflows e processos.
+🛠️ Configuração de ambientes VPS e Docker, além da utilização de Portainer para gerenciar stacks e containers de maneira prática e eficiente.
+🚀 Especialista e
 - 🌱 Estudando Java (Spring Boot)
 
 ### Minhas Habilidades
