@@ -7,6 +7,7 @@
 
 <p align="center">
   <p align="center">
+<p align="center">
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework">
@@ -16,10 +17,17 @@
    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
    <img src="https://img.shields.io/badge/Low_Code-00B0B9?style=for-the-badge&logo=appgyver&logoColor=white" alt="Low Code">
    <img src="https://img.shields.io/badge/No_Code-FF6F00?style=for-the-badge&logo=zapier&logoColor=white" alt="No Code">
+   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+   <img src="https://img.shields.io/badge/Flowise-1C83C4?style=for-the-badge&logo=flowise&logoColor=white" alt="Flowise">
+   <img src="https://img.shields.io/badge/ChatGPT-25A8E0?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+   <img src="https://img.shields.io/badge/API-FF4500?style=for-the-badge&logo=api&logoColor=white" alt="API">
+   <img src="https://img.shields.io/badge/Evolution-7B7D7D?style=for-the-badge&logo=git&logoColor=white" alt="Evolution">
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
+</p>
+
 </p>
 
 </p>
