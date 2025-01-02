@@ -8,8 +8,8 @@
 
 🛠️ Configuração de ambientes VPS e Docker, além da utilização de Portainer para gerenciar stacks e containers de maneira prática e eficiente.
 
-- 🌱 Desenvolvedor Back-end Java (Spring)
-- 
+🌱 Desenvolvedor Back-end Java (Spring)
+ 
   💻 Desenvolvimento de CRUDs (Create, Read, Update, Delete) eficientes utilizando o Spring Boot.
   
   🛠️ Integração do Spring com JPA para otimizar o gerenciamento de banco de dados, com foco em persistência e controle eficiente das entidades.
