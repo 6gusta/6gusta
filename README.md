@@ -1,3 +1,5 @@
+(https://media.giphy.com/media/dQd9luH68F2n2/giphy.gif)
+
 ## Olá! Me Chamo Luiz Gustavo Bem Vindo!
 
 -🔭 Atualmente, trabalho com o desenvolvimento de aplicações Lowcode/Nowcode, com foco em soluções rápidas e eficientes.
