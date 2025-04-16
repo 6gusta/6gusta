@@ -29,11 +29,6 @@
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-   <img src="https://img.shields.io/badge/Low_Code-00B0B9?style=for-the-badge&logo=appgyver&logoColor=white" alt="Low Code">
-   <img src="https://img.shields.io/badge/No_Code-FF6F00?style=for-the-badge&logo=zapier&logoColor=white" alt="No Code">
-   <img src="https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterFlow">
-   <img src="https://img.shields.io/badge/Flowise-1C83C4?style=for-the-badge&logo=flowise&logoColor=white" alt="Flowise">
-   <img src="https://img.shields.io/badge/Typebot-02A9E0?style=for-the-badge&logo=typebot&logoColor=white" alt="Typebot">
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
