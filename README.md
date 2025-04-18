@@ -15,14 +15,14 @@
 </h4>
 
 ---
-🚀 Sobre Mim
+##🚀 Sobre Mim
 Olá, meu nome é Luiz Gustavo e tenho 20 anos. Sou Desenvolvedor Back-End Java com experiência no ecossistema Spring. Tenho trabalhado em projetos que envolvem o desenvolvimento de sistemas, implementação de soluções de segurança e gerenciamento de dados de forma eficiente.
 
 Além disso, tenho experiência com bancos de dados MySQL e PostgreSQL.
 
 Estou em busca de uma oportunidade como Desenvolvedor Java Júnior ou Estagiário, onde eu possa continuar aprendendo e contribuindo com meus conhecimentos.
 
-💼 Onde Trabalho no Momento
+##💼 Onde Trabalho no Momento
 Atualmente, trabalho na Up Estágio 🚀, onde minha principal função é automatizar processos, especialmente voltados para a seleção de candidatos. Utilizo Google Sheets com JavaScript e ferramentas low-code para facilitar e agilizar a gestão de dados e otimizar tarefas do dia a dia.
 
 Além disso, crio chatbots e agentes de IA com plataformas como N8N e Typebot. Esses agentes ajudam a automatizar o atendimento ao cliente e a melhorar a comunicação. Também participo da criação de sistemas como o RAG para leitura de informações e um CRM para gerenciar tudo de forma mais eficiente.
