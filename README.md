@@ -79,9 +79,10 @@
 
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/yyle88/yyle88/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/6gusta/6gusta/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/yyle88/yyle88/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/6gusta/6gusta/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 ### Projetos Recentes
 
 - [Simulador De Caixa Eletronico](https://github.com/6gusta/SIMULADOR-DE-CAIXA-ELETRONICO-.git):  
