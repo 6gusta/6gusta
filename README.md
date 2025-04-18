@@ -1,8 +1,5 @@
-## 👋 Olá! Me Chamo Luiz Gustavo!
+![TYPING-SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=EBE912&width=999&lines=Olá+%F0%9F%91%8B%2C+Bem-vindo(a)+à+minha+página+%F0%9F%91%8B%2C;Me+chamo+Luiz+Gustavo!;Desenvolvedor+Java+e+Lowcode+%F0%9F%9A%80)
 
-![TYPING-SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=EBE912&width=999&lines=Olá+%F0%9F%91%8B%2C+Bem-vindo(a)+à+minha+página+%F0%9F%91%8B%2C)
-
----
 
 <h4 align="center" style="font-size: 2.0em;">
   <a href="README.md">English</a> | 
