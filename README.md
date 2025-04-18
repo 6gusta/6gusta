@@ -20,7 +20,7 @@
 
   ## Languages
 
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=yyle88&hide=html&card_width=465)
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=6gusta=html&card_width=465)
   
 
 ### Minhas Habilidades
