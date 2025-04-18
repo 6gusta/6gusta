@@ -3,8 +3,6 @@
 
 <h4 align="center" style="font-size: 2.0em;">
   <a href="README.md">English</a> | 
-  <strong>简体中文</strong> | 
-  <a href="locales/README.zh-Hant.md">繁體中文</a> | 
   <a href="locales/README.ja.md">日本語</a> | 
   <a href="locales/README.ru.md">Русский</a> | 
   <a href="locales/README.de.md">Deutsch</a> | 
@@ -45,6 +43,7 @@ Além disso, crio chatbots e agentes de IA com plataformas como N8N e Typebot. E
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
