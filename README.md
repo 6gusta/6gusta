@@ -19,7 +19,8 @@
   🛠️ Integração do Spring com JPA para otimizar o gerenciamento de banco de dados, com foco em persistência e controle eficiente das entidades.
 
   ## Languages
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=6gusta&hide=html&card_width=465)
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=6gusta&hide=html,python&card_width=465)
+
 
   
 
