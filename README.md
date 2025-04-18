@@ -3,11 +3,12 @@
 ## Olá! Me Chamo Luiz Gustavo!
 ![TYPING-SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=EBE912&width=999&lines=Olá+%F0%9F%91%8B%2C+Bem-vindo(a)+à+minha+página+%F0%9F%91%8B%2C)
 
-<h4 align="center" style="font-size: 1.5em;">
-  <a href="README.md">English</a> |
-  <a href="locales/README.pt.md"><strong>Português</strong></a> |
-  <a href="locales/README.es.md">Español</a>
-</h4>
+
+<!-- 这是一个注释，它不会在渲染时显示出来，这是语言选择的起始位置 -->
+
+<h4 align="center" style="font-size: 2.0em;"><a href="README.md">English</a> | <strong>简体中文</strong> | <a href="locales/README.zh-Hant.md">繁體中文</a> | <a href="locales/README.ja.md">日本語</a> | <a href="locales/README.ru.md">Русский</a> | <a href="locales/README.de.md">Deutsch</a> | <a href="locales/README.fr.md">Français</a> | <a href="locales/README.es.md">Español</a> | <a href="locales/README.pt.md">Português</a> | <a href="locales/README.vi.md">Tiếng Việt</a> | <a href="LOCALE-MENU.md"><b>...</b></a></h4>
+
+<!-- 这是一个注释，它不会在渲染时显示出来，这是语言选择的终止位置 -->
 
 
 -🔭 Atualmente, trabalho com o desenvolvimento de aplicações Lowcode/Nowcode, com foco em soluções rápidas e eficientes.
