@@ -18,14 +18,11 @@
 
 ### 🚀 Sobre Mim
 
-- 🔭 Atualmente, trabalho com o desenvolvimento de aplicações **Lowcode/Nowcode**, com foco em soluções rápidas e eficientes.
-- 💬 Criação de **chatbots** com Flowise, Typebot e integrações com **WhatsApp via API** (como Evolution e Chatwoot).
-- 🧠 Desenvolvimento de **agentes inteligentes** com a plataforma **n8n** para automação de workflows.
-- 🛠️ Configuração de ambientes com **VPS, Docker** e **Portainer** para gerenciamento de stacks e containers.
-- 🌱 **Desenvolvedor Back-end Java (Spring)**  
-  - 💻 CRUDs eficientes com **Spring Boot**  
-  - 🛠️ Integração com **Spring JPA** para otimização e persistência de dados
+Olá, meu nome é Luiz Gustavo e tenho 20 anos. Sou Desenvolvedor Back-End Java com experiência no ecossistema Spring. Tenho trabalhado em projetos que envolvem o desenvolvimento de sistemas, implementação de soluções de segurança e gerenciamento de dados de forma eficiente.
 
+Além disso, tenho experiência com bancos de dados MySQL e PostgreSQL.
+
+Estou em busca de uma oportunidade como Desenvolvedor Java Júnior ou Estagiário, onde eu possa continuar aprendendo e contribuindo com meus conhecimentos.
 ---
 
 ### 📊 Estatísticas
