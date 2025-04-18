@@ -28,6 +28,8 @@
   ## Languages
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=6gusta&hide=html,python,css&card_width=465)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yyle88&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&hide=contribs&card_width=465)
+
 
 
   
