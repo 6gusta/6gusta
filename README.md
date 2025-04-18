@@ -3,6 +3,12 @@
 ## Olá! Me Chamo Luiz Gustavo!
 ![TYPING-SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=EBE912&width=999&lines=Olá+%F0%9F%91%8B%2C+Bem-vindo(a)+à+minha+página+%F0%9F%91%8B%2C)
 
+<h4 align="center" style="font-size: 1.5em;">
+  <a href="README.md">English</a> |
+  <a href="locales/README.pt.md"><strong>Português</strong></a> |
+  <a href="locales/README.es.md">Español</a>
+</h4>
+
 
 -🔭 Atualmente, trabalho com o desenvolvimento de aplicações Lowcode/Nowcode, com foco em soluções rápidas e eficientes.
 
