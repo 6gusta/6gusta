@@ -3,12 +3,7 @@
 
 <h4 align="center" style="font-size: 2.0em;">
   <a href="README.md">English</a> | 
-  <a href="locales/README.ja.md">日本語</a> | 
-  <a href="locales/README.ru.md">Русский</a> | 
-  <a href="locales/README.de.md">Deutsch</a> | 
-  <a href="locales/README.fr.md">Français</a> | 
   <a href="locales/README.es.md">Español</a> | 
-  <a href="locales/README.pt.md">Português</a> | 
   <a href="LOCALE-MENU.md"><b>...</b></a>
 </h4>
 
