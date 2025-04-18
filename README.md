@@ -2,7 +2,7 @@
 
 
 <h4 align="center" style="font-size: 2.0em;">
-  <a href="README.md">English</a> | 
+  <a href="READMEE.md">English</a> | 
   <a href="locales/README.es.md">Español</a> | 
 </h4>
 
