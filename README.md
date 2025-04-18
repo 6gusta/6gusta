@@ -1,7 +1,7 @@
 
 
 ## Olá! Me Chamo Luiz Gustavo Bem Vindo!
-![TYPING-SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=EBE912&width=999&lines=Olá+%F0%9F%91%8B%2C+Bem-vindo(a)+à+minha+página+%F0%9F%91%8B%2C+Eu+sou+yyle88)
+![TYPING-SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=EBE912&width=999&lines=Olá+%F0%9F%91%8B%2C+Bem-vindo(a)+à+minha+página+%F0%9F%91%8B%2C+Eu+sou+Luiz Gustavo)
 
 
 -🔭 Atualmente, trabalho com o desenvolvimento de aplicações Lowcode/Nowcode, com foco em soluções rápidas e eficientes.
