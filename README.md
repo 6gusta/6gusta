@@ -17,6 +17,10 @@
   💻 Desenvolvimento de CRUDs (Create, Read, Update, Delete) eficientes utilizando o Spring Boot.
   
   🛠️ Integração do Spring com JPA para otimizar o gerenciamento de banco de dados, com foco em persistência e controle eficiente das entidades.
+
+  ## Languages
+
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=yyle88&hide=html&card_width=465)
   
 
 ### Minhas Habilidades
