@@ -27,9 +27,11 @@ Além disso, crio chatbots e agentes de IA com plataformas como N8N e Typebot. E
 
 
 <div align="center">
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=6gusta&hide=html,python,css&card_width=465)
-&nbsp;
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=6gusta&show_icons=true&theme=radical&hide=contribs&card_width=465)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6gusta&hide=html,python,css&card_width=465" />
+  <img src="https://github-readme-stats.vercel.app/api?username=6gusta&show_icons=true&theme=radical&hide=contribs&card_width=465" />
+</p>
+
 
 
   
