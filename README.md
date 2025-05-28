@@ -1,6 +1,4 @@
 ![TYPING-SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=EBE912&width=999&lines=Olá+%F0%9F%91%8B%2C+Bem-vindo(a)+à+minha+página+%F0%9F%91%8B%2C;Me+chamo+Luiz+Gustavo!;Desenvolvedor+Java%F0%9F%9A%80)
-   
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaac545454&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaac545454&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
 
 <h4 align="center" style="font-size: 2.0em;">
   <a href="READMEE.md">English</a> | 
@@ -21,6 +19,9 @@ Atualmente, trabalho na Up Estágio 🚀, onde minha principal função é autom
 Além disso, crio chatbots e agentes de IA com plataformas como N8N e Typebot. Esses agentes ajudam a automatizar o atendimento ao cliente e a melhorar a comunicação. Também participo da criação de sistemas como o RAG para leitura de informações e um CRM para gerenciar tudo de forma mais eficiente.
 
 ### 📊 Estatísticas
+| ![GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=6gusta&theme=dracula&utcOffset=-3) | ![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6gusta&theme=dracula) |
+| --- | --- |
+
 
 <div align="center">
 
