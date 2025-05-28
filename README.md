@@ -98,7 +98,7 @@ Além disso, crio chatbots e agentes de IA com plataformas como N8N e Typebot. E
 - [**NativeCod3r**](https://github.com/6gusta/NativerCod3r.git)  
   Plataforma de ensino com conteúdos de inglês básico e lógica Python com exercícios.
 
-- [**Campo-Minado-CursoJava**](https://github.com/6gusta/Campo-Minado-CursoJava.git)  
+- [**Viralar=ong para pets**](https://github.com/6gusta/Angular)(https://github.com/6gusta/ONG-pets-) 
   Jogo Campo Minado desenvolvido com POO, Streams, tratamento de erros e testes unitários.
 
 - [**Chatbot (Pedidos)**](https://github.com/6gusta/Chatnot_Pedidos)  
