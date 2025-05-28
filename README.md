@@ -98,8 +98,7 @@ Além disso, crio chatbots e agentes de IA com plataformas como N8N e Typebot. E
 - [**NativeCod3r**](https://github.com/6gusta/NativerCod3r.git)  
   Plataforma de ensino com conteúdos de inglês básico e lógica Python com exercícios.
 
-- [**Viralar=ong para pets**](https://github.com/6gusta/Angular)(https://github.com/6gusta/ONG-pets-) 
-  Jogo Campo Minado desenvolvido com POO, Streams, tratamento de erros e testes unitários.
+- - [**Viralar - ONG para Adoção de Pets**](https://github.com/6gusta/ONG-pets-): Sistema de adoção de animais com cadastro de pets, perfil das ONGs, login, painel administrativo e filtro de localização. Desenvolvido com Angular e localStorage para simular backend
 
 - [**Chatbot (Pedidos)**](https://github.com/6gusta/Chatnot_Pedidos)  
   Chatbot feito no Typebot, integrado com API Java para salvar pedidos no banco de dados.
