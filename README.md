@@ -1,5 +1,6 @@
 ![TYPING-SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=EBE912&width=999&lines=Olá+%F0%9F%91%8B%2C+Bem-vindo(a)+à+minha+página+%F0%9F%91%8B%2C;Me+chamo+Luiz+Gustavo!;Desenvolvedor+Java%F0%9F%9A%80)
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+   
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaac545454&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaac545454&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
 
 <h4 align="center" style="font-size: 2.0em;">
   <a href="READMEE.md">English</a> | 
