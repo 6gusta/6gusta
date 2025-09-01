@@ -23,7 +23,7 @@ Estou em busca de uma oportunidade como Desenvolvedor Java Júnior ou Estagiári
   Também criei chatbots e agentes de IA com plataformas como N8N e Typebot, além de participar do desenvolvimento de sistemas como RAG para leitura de informações e um CRM para gestão.  
   Durante esse período, também adquiri experiência na **configuração e gerenciamento de VPS**, garantindo a disponibilidade e estabilidade dos serviços.
 
-- **Estagiário em Suporte de TI ChatPlus 💬** *(agosto/2025 – atual)*  
+- **Estagiário em Suporte de TI - ChatPlus 💬** *(agosto/2025 – atual)*  
   Atualmente, trabalho na ChatPlus, focado em automação de fluxos com **n8n** e na criação de **chatbots inteligentes** voltados para **atendimentos em farmácias**.  
   Minha atuação envolve integrações, melhoria de comunicação com clientes e desenvolvimento de soluções automatizadas para agilizar os atendimentos.
 
