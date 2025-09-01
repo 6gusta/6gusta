@@ -16,10 +16,16 @@ Além disso, tenho experiência com bancos de dados MySQL e PostgreSQL.
 
 Estou em busca de uma oportunidade como Desenvolvedor Java Júnior ou Estagiário, onde eu possa continuar aprendendo e contribuindo com meus conhecimentos.
 
-### 💼 Onde Trabalho no Momento
-Atualmente, trabalho na Up Estágio 🚀, onde minha principal função é automatizar processos, especialmente voltados para a seleção de candidatos. Utilizo Google Sheets com JavaScript e ferramentas low-code para facilitar e agilizar a gestão de dados e otimizar tarefas do dia a dia.
+### 💼 Experiência Profissional
 
-Além disso, crio chatbots e agentes de IA com plataformas como N8N e Typebot. Esses agentes ajudam a automatizar o atendimento ao cliente e a melhorar a comunicação. Também participo da criação de sistemas como o RAG para leitura de informações e um CRM para gerenciar tudo de forma mais eficiente.
+- **Up Estágio 🚀** *(junho/2025 – julho/2025)*  
+  Atuei automatizando processos voltados para a seleção de candidatos. Utilizei Google Sheets com JavaScript e ferramentas low-code para otimizar tarefas do dia a dia.  
+  Também criei chatbots e agentes de IA com plataformas como N8N e Typebot, além de participar do desenvolvimento de sistemas como RAG para leitura de informações e um CRM para gestão.
+
+- **ChatPlus 💬** *(agosto/2025 – atual)*  
+  Atualmente, trabalho na ChatPlus, focado em automação de fluxos com **n8n** e na criação de **chatbots inteligentes** voltados para **atendimentos em farmácias**.  
+  Minha atuação envolve integrações, melhoria de comunicação com clientes e desenvolvimento de soluções automatizadas para agilizar os atendimentos.
+
 
 ### 📊 Estatísticas
 | ![GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=6gusta&theme=dracula&utcOffset=-3) | ![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6gusta&theme=dracula) |
