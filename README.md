@@ -1,12 +1,14 @@
 ![TYPING-SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=EBE912&width=999&lines=Olá+%F0%9F%91%8B%2C+Bem-vindo(a)+à+minha+página+%F0%9F%91%8B%2C;Me+chamo+Luiz+Gustavo!;Desenvolvedor+Java%F0%9F%9A%80)
 
+
+
+
 <h4 align="center" style="font-size: 2.0em;">
   <a href="READMEE.md">English</a> | 
-  <a href="README.es.md">Español</a>
+  <a href="README.es.md">Español</a> | 
 </h4>
 
 ---
-
 ### 🚀 Sobre Mim
 Olá, meu nome é Luiz Gustavo e tenho 21 anos. Sou Desenvolvedor Back-End Java com experiência no ecossistema Spring. Tenho trabalhado em projetos que envolvem o desenvolvimento de sistemas, implementação de soluções de segurança e gerenciamento de dados de forma eficiente.
 
@@ -17,27 +19,29 @@ Estou em busca de uma oportunidade como Desenvolvedor Java Júnior ou Estagiári
 ### 💼 Experiência Profissional
 
 - **Estagiário de TI - Up Estágio 🚀** *(junho/2024 – julho/2025)*  
-  Atuei automatizando processos voltados para a seleção de candidatos. Utilizei Google Sheets com JavaScript e ferramentas low-code para otimizar tarefas do dia a dia.  
-  Também criei chatbots e agentes de IA com plataformas como **n8n** e **Typebot**, além de participar do desenvolvimento de sistemas como RAG para leitura de informações e um CRM para gestão.  
+ Atuei automatizando processos voltados para a seleção de candidatos. Utilizei Google Sheets com JavaScript e ferramentas low-code para otimizar tarefas do dia a dia.  
+  Também criei chatbots e agentes de IA com plataformas como N8N e Typebot, além de participar do desenvolvimento de sistemas como RAG para leitura de informações e um CRM para gestão.  
   Durante esse período, também adquiri experiência na **configuração e gerenciamento de VPS**, garantindo a disponibilidade e estabilidade dos serviços.
 
 - **Estagiário em Suporte de TI - ChatPlus 💬** *(agosto/2025 – atual)*  
-  Atualmente trabalho na ChatPlus, focado em automação de fluxos com **n8n** e na criação de **chatbots inteligentes** voltados para atendimentos em farmácias.  
+  Atualmente, trabalho na ChatPlus, focado em automação de fluxos com **n8n** e na criação de **chatbots inteligentes** voltados para **atendimentos em farmácias**.  
   Minha atuação envolve integrações, melhoria de comunicação com clientes e desenvolvimento de soluções automatizadas para agilizar os atendimentos.
 
----
 
 ### 📊 Estatísticas
-
 | ![GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=6gusta&theme=dracula&utcOffset=-3) | ![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6gusta&theme=dracula) |
 | --- | --- |
 
-<div align="center">
 
+<div align="center">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6gusta&hide=html,python,css&card_width=465" />
   <img src="https://github-readme-stats.vercel.app/api?username=6gusta&show_icons=true&theme=radical&hide=contribs&card_width=465" />
 </p>
+
+
+
+  
 
 </div>
 
@@ -69,13 +73,13 @@ Estou em busca de uma oportunidade como Desenvolvedor Java Júnior ou Estagiári
 ### 🌐 Redes Sociais
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luiz-gustavo-pereira-de-carvalho-26085b270" target="_blank">
+  <a href="https://www.linkedin.com/in/luiz-gustavo-pereira-de-carvalho-26085b270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/gusta.carvalh0" target="_blank">
+  <a href="https://www.instagram.com/gusta.carvalh0?igsh=ZG1xbnE3cGhpbDg0&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:luizgustavopc02@gmail.com" target="_blank">
+  <a href="https://myaccount.google.com/u/1/profile?pageId=none"target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://discord.com/users/luizgustavo_80954" target="_blank">
@@ -87,22 +91,21 @@ Estou em busca de uma oportunidade como Desenvolvedor Java Júnior ou Estagiári
 
 ### 🐍 Contribuições
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/6gusta/6gusta/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/6gusta/6gusta/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/6gusta/6gusta/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/6gusta/6gusta/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ---
 
 ### 📁 Projetos Recentes
 
-- [**Simulador de Caixa Eletrônico**](https://github.com/6gusta/SIMULADOR-DE-CAIXA-ELETRONICO-.git)  
+- [**Simulador De Caixa Eletrônico**](https://github.com/6gusta/SIMULADOR-DE-CAIXA-ELETRONICO-.git)  
   Simula o comportamento de um caixa eletrônico.
 
 - [**NativeCod3r**](https://github.com/6gusta/NativerCod3r.git)  
   Plataforma de ensino com conteúdos de inglês básico e lógica Python com exercícios.
 
-- [**Viralar - ONG para Adoção de Pets**](https://github.com/6gusta/ONG-pets-)  
-  Sistema de adoção de animais com cadastro de pets, perfil das ONGs, login, painel administrativo e filtro de localização. Desenvolvido com Angular e localStorage.
+- [**Viralar - ONG para Adoção de Pets**](https://github.com/6gusta/ONG-pets-): Sistema de adoção de animais com cadastro de pets, perfil das ONGs, login, painel administrativo e filtro de localização. Desenvolvido com Angular e localStorage para simular backend
 
 - [**Chatbot (Pedidos)**](https://github.com/6gusta/Chatnot_Pedidos)  
   Chatbot feito no Typebot, integrado com API Java para salvar pedidos no banco de dados.
@@ -112,3 +115,4 @@ Estou em busca de uma oportunidade como Desenvolvedor Java Júnior ou Estagiári
 ### 🌍 Meu Portfólio
 
 👉 https://6gusta.github.io/Portifolio/
+
