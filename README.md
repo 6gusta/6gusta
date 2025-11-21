@@ -100,8 +100,8 @@ Estou em busca de uma oportunidade como Desenvolvedor Java Júnior ou Estagiári
 
 ### 📁 Projetos Recentes
 
-- [**Simulador De Caixa Eletrônico**](https://github.com/6gusta/SIMULADOR-DE-CAIXA-ELETRONICO-.git)  
-  Simula o comportamento de um caixa eletrônico.
+- [**E-commerce**](https://github.com/6gusta/E-commerce)  
+  Desenvolvi um e-commerce full stack (Angular + Spring Boot) com autenticação segura, painel admin, cadastro e filtro de produtos, checkout integrado ao Stripe (PIX e cartão), envio automático de e-mails com RabbitMQ, e gestão completa de pedidos, consolidando minha experiência em integrações e arquitetura full stack.
 
 - [**NativeCod3r**](https://github.com/6gusta/NativerCod3r.git)  
   Plataforma de ensino com conteúdos de inglês básico e lógica Python com exercícios.
