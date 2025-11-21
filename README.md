@@ -103,8 +103,8 @@ Estou em busca de uma oportunidade como Desenvolvedor Java Júnior ou Estagiári
 - [**E-commerce**](https://github.com/6gusta/E-commerce)  
   Desenvolvi um e-commerce full stack (Angular + Spring Boot) com autenticação segura, painel admin, cadastro e filtro de produtos, checkout integrado ao Stripe (PIX e cartão), envio automático de e-mails com RabbitMQ, e gestão completa de pedidos, consolidando minha experiência em integrações e arquitetura full stack.
 
-- [**NativeCod3r**](https://github.com/6gusta/NativerCod3r.git)  
-  Plataforma de ensino com conteúdos de inglês básico e lógica Python com exercícios.
+- [**API-Whatssap**](https://github.com/6gusta/api2.0)  
+  Criei um sistema de instâncias de WhatsApp com whatsapp-web.js, oferecendo endpoints completos para envio e recebimento de mensagens, status das instâncias e geração de QR Codes em tempo real, totalmente integrado e pronto para conectar com outros sistemas.
 
 - [**Viralar - ONG para Adoção de Pets**](https://github.com/6gusta/ONG-pets-): Sistema de adoção de animais com cadastro de pets, perfil das ONGs, login, painel administrativo e filtro de localização. Desenvolvido com Angular e localStorage para simular backend
 
