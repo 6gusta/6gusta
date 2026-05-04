@@ -11,11 +11,10 @@
 
 ---
 ### 🚀 Sobre Mim
-Olá, meu nome é Luiz Gustavo e tenho 21 anos. Sou Desenvolvedor Back-End Java com experiência no ecossistema Spring. Tenho trabalhado em projetos que envolvem o desenvolvimento de sistemas, implementação de soluções de segurança e gerenciamento de dados de forma eficiente.
+Desenvolvedor Back-End Java com experiência no ecossistema Spring Boot, focado na criação de sistemas, automações e integrações com APIs.
+Tenho experiência com bancos de dados relacionais (MySQL e PostgreSQL) e desenvolvimento de soluções voltadas para eficiência e escalabilidade.
 
-Além disso, tenho experiência com bancos de dados MySQL e PostgreSQL.
-
-Estou em busca de uma oportunidade como Desenvolvedor Java Júnior ou Estagiário, onde eu possa continuar aprendendo e contribuindo com meus conhecimentos.
+Atualmente busco oportunidades como Desenvolvedor Java Júnior ou Estágio, onde eu possa evoluir tecnicamente e contribuir com soluções reais.
 
 ### 💼 Experiência Profissional
 
