@@ -101,7 +101,27 @@ Estou em busca de uma oportunidade como Desenvolvedor Java Júnior ou Estagiári
 ### 📁 Projetos Recentes
 
 - [**E-commerce**](https://github.com/6gusta/E-commerce)  
-  Desenvolvi um e-commerce full stack (Angular + Spring Boot) com autenticação segura, painel admin, cadastro e filtro de produtos, checkout integrado ao Stripe (PIX e cartão), envio automático de e-mails com RabbitMQ, e gestão completa de pedidos, consolidando minha experiência em integrações e arquitetura full stack.
+ ## — E-commerce Full Stack
+
+Sistema completo de e-commerce desenvolvido com Angular + Spring Boot, simulando um ambiente real de produção.
+
+###  Arquitetura
+- Front-end: Angular
+- Back-end: Spring Boot + Spring Security
+- Banco: MySQL/PostgreSQL
+- Mensageria: RabbitMQ
+- Pagamentos: Stripe (PIX e Cartão)
+
+###  Funcionalidades principais
+- Autenticação com níveis (Admin / Cliente)
+- Cadastro e gerenciamento de produtos
+- Checkout completo com Stripe
+- Processamento assíncrono com RabbitMQ
+- Envio automático de e-mails
+- Histórico de pedidos
+
+###  Objetivo
+Simular um sistema real de e-commerce com arquitetura escalável e integrações reais de mercado.
 
 - [**API-Whatssap**](https://github.com/6gusta/api2.0)  
   Criei um sistema de instâncias de WhatsApp com whatsapp-web.js, oferecendo endpoints completos para envio e recebimento de mensagens, status das instâncias e geração de QR Codes em tempo real, totalmente integrado e pronto para conectar com outros sistemas.
